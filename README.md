@@ -12,4 +12,14 @@
 - ⚡ Fun fact: ...
 -->
 
-- i'm coding a discord bot in python. i've been coding with the language for about 10 months now and so far i absolutely love it, but i don't think i am very good at it. 
+i'm coding a discord bot in python. i've been coding with the language for about 10 months now and so far i absolutely love it, but i don't think i am very good at it. 
+also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :')
+
+## other stuff
+
+- pronouns: she/her or they/them
+- i pretty much only use Discord to contact people, feel free to flick me a DM, my username is peanut#2450
+- i'm from New Zealand
+- i'm 14 years old
+
+# see ya i guess :)
