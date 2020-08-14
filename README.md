@@ -1,4 +1,4 @@
-### hi! i'm madeleine, aka spinfish.
+# hi! i'm madeleine, aka spinfish.
 
 <!--
 **spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ also, i am absolutely hopeless at dealing with documents and the command line. i
 - i'm from New Zealand
 - i'm 14 years old
 
-# see ya i guess :)
+### see ya i guess :)
