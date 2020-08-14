@@ -1,10 +1,7 @@
-### Hi there 👋
+### hi! i'm madeleine, aka spinfish.
 
 <!--
 **spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- i'm coding a discord bot in python. i've been coding with the language for about 10 months now and so far i absolutely love it, but i don't think i am very good at it. 
