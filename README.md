@@ -12,8 +12,10 @@
 - ⚡ Fun fact: ...
 -->
 
-i'm coding a discord bot in python. i've been coding with the language for about 10 months now and so far i absolutely love it, but i don't think i am very good at it. 
+i've been working with the python for about 10 months now and so far i absolutely love it, but i don't think i am very good at it. 
+i've written a discord bot in the language with the aid of discord.py, although its commands are mostly useless; i consider it a finished project.
 also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :')
+i may consider learning js or c#, next year for digital technology i will have to do js anyway. we'll see!
 
 ## other stuff
 
@@ -22,6 +24,6 @@ also, i am absolutely hopeless at dealing with documents and the command line. i
 - i'm from New Zealand
 - i'm 14 years old
 
-[![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish)](https://github.com/anuraghazra/github-readme-stats)
+[![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
 ### see ya i guess :)
