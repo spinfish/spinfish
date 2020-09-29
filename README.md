@@ -22,4 +22,6 @@ also, i am absolutely hopeless at dealing with documents and the command line. i
 - i'm from New Zealand
 - i'm 14 years old
 
+[![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish)](https://github.com/anuraghazra/github-readme-stats)
+
 ### see ya i guess :)
