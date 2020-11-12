@@ -19,7 +19,7 @@ i may consider learning js or c#, next year for digital technology i will have t
 
 ## other stuff
 
-- pronouns: she/her or they/them
+- pronouns: they/them
 - i pretty much only use Discord to contact people, feel free to flick me a DM, my username is madeleine#0173
 - i'm from New Zealand
 - i'm 14 years old
