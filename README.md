@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-i've been working with python for over a year now and i really enjoy working with it, but i don't think i am very good at it. 
+i've been working with python for over a year now and i really enjoy it, but i don't think i am very good at it. 
 i've written a (not very good) discord bot in the language with the aid of discord.py, and consider this a finished project.
 also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :')
 
@@ -27,5 +27,3 @@ it's not too different from python and i feel like learning another programming 
 - i'm 14 years old
 
 [![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
-
-### see ya i guess :)
