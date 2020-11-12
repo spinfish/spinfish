@@ -12,15 +12,17 @@
 - ⚡ Fun fact: ...
 -->
 
-i've been working with python for about a year now and so far i absolutely love it, but i don't think i am very good at it. 
-i've written a discord bot in the language with the aid of discord.py, although its commands are mostly useless; i consider it a finished project.
+i've been working with python for over a year now and i really enjoy working with it, but i don't think i am very good at it. 
+i've written a (not very good) discord bot in the language with the aid of discord.py, and consider this a finished project.
 also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :')
-i may consider learning js or c#, next year for digital technology i will have to do js anyway. we'll see!
+
+i'm definitely considering learning js, partly because in digital technology next year i will have to do it, and partly because i've heard
+it's not too different from python and i feel like learning another programming language would be good. we'll see!
 
 ## other stuff
 
 - pronouns: they/them
-- i pretty much only use Discord to contact people, feel free to flick me a DM, my username is madeleine#0173
+- my username on Discord is madeleine#0173, which is the platform i use to contact people
 - i'm from New Zealand
 - i'm 14 years old
 
