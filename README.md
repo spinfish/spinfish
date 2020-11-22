@@ -29,5 +29,5 @@ it's not too different from python and i feel like learning another programming 
 ##
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats" width="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445" width="100" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445" width="auto" /> 
 </p>
