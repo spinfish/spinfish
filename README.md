@@ -26,4 +26,5 @@ it's not too different from python and i feel like learning another programming 
 - i'm from New Zealand
 - i'm 14 years old
 
-[![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats) [!top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445)
+[![hahayes github stats](https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+
