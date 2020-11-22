@@ -26,7 +26,5 @@ it's not too different from python and i feel like learning another programming 
 - i'm from New Zealand
 - i'm 14 years old
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats" width="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445" width="auto" /> 
-</p>
+[!ok that didnt](https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[!really work did it](https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445)
