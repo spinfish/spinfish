@@ -24,7 +24,8 @@ it's not too different from python and i feel like learning another programming 
 - my username on Discord is madeleine#0173, which is the platform i use to contact people
 - i'm from New Zealand
 - i'm 14 years old
-- ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
+
+![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
 
 ##
 <p>
