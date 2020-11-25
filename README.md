@@ -1,5 +1,4 @@
-# hi! i'm madeleine, aka spinfish. ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
-
+# hi! i'm madeleine, aka spinfish.
 <!--
 **spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -19,7 +18,7 @@ also, i am absolutely hopeless at dealing with documents and the command line. i
 i'm definitely considering learning js, partly because in digital technology next year i will have to do it, and partly because i've heard
 it's not too different from python and i feel like learning another programming language would be good. we'll see!
 
-## other stuff
+## other stuff   ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
 
 - pronouns: they/them
 - my username on Discord is madeleine#0173, which is the platform i use to contact people
