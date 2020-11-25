@@ -18,12 +18,13 @@ also, i am absolutely hopeless at dealing with documents and the command line. i
 i'm definitely considering learning js, partly because in digital technology next year i will have to do it, and partly because i've heard
 it's not too different from python and i feel like learning another programming language would be good. we'll see!
 
-## other stuff   ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
+## other stuff  
 
 - pronouns: they/them
 - my username on Discord is madeleine#0173, which is the platform i use to contact people
 - i'm from New Zealand
 - i'm 14 years old
+- ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
 
 ##
 <p>
