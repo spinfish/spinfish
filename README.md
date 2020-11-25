@@ -1,4 +1,4 @@
-# hi! i'm madeleine, aka spinfish.
+# hi! i'm madeleine, aka spinfish. ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
 
 <!--
 **spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
