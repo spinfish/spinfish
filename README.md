@@ -23,7 +23,7 @@ it's not too different from python and i feel like learning another programming 
 - pronouns: they/them
 - my username on Discord is madeleine#0173, which is the platform i use to contact people
 - i'm from New Zealand
-- i'm 14 years old
+- i'm 15 years old
 
 ##
 <p>
