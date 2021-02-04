@@ -11,19 +11,19 @@
 - ⚡ Fun fact: ...
 -->
 
-i've been working with python for over a year now and i really enjoy it, but i don't think i am very good at it. 
-i've written a (not very good) discord bot in the language with the aid of discord.py, and consider this a finished project.
-also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :')
+i've been working with python for about a year and a half now and i *really* enjoy it, but i don't think i am very good at it. 
+i've written a discord bot in the language with the aid of [discord.py](https://github.com/rapptz/discord.py 'amazing lib that u should go check out'), which has been fun.
+also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :^)
 
-i'm definitely considering learning js, partly because in digital technology next year i will have to do it, and partly because i've heard
-it's not too different from python and i feel like learning another programming language would be good. we'll see!
+i'm definitely considering learning javascript, partly because later this year i'll have to do it for digital technology, and partly because i've
+heard it's not too different from python and i feel like learning another programming language would be good. we'll see!
 
 ## other stuff  
 
 - pronouns: they/them
-- my username on Discord is madeleine#0173, which is the platform i use to contact people
-- i'm from New Zealand
-- i'm 15 years old
+- discord: madeleine#0173 (primary platform)
+- location: new zealand
+- age: i'm 15 years old
 
 ##
 <p>
