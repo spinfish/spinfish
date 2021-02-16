@@ -1,4 +1,4 @@
-# hi! i'm madeleine, aka spinfish.   ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
+# hi! i'm mackenzie, aka spinfish.   ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
 <!--
 **spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -21,7 +21,7 @@ heard it's not too different from python and i feel like learning another progra
 ## other stuff  
 
 - pronouns: they/them
-- discord: madeleine#0173 (primary platform)
+- discord: mackenzie#0173 (primary platform)
 - location: new zealand
 - age: i'm 15 years old
 
