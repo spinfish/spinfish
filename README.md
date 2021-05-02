@@ -1,32 +1,21 @@
-# hi! i'm mackenzie, aka spinfish.   ![](https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493)
-<!--
-**spinfish/spinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hi! i'm mackenzie. ![][views] ![][pronouns] ![][discord]
 
-i've been working with python for about a year and a half now and i *really* enjoy it, but i don't think i am very good at it. 
-i've written a discord bot in the language with the aid of [discord.py](https://github.com/rapptz/discord.py 'amazing lib that u should go check out'), which has been fun.
-also, i am absolutely hopeless at dealing with documents and the command line. it's a miracle that i even managed to set up my bot's vps :^)
+recently i've been making a lot of themes for Discord (my communication app of choice) which you can view [here][kaleidoscope], [here][midnight candy] and [here][midnightcord]. CSS sure can get complicated quickly, but i'm entranced by its power nonetheless. also, [sass][ily sass] is a godsend.
 
-i'm definitely considering learning javascript, partly because later this year i'll have to do it for digital technology, and partly because i've
-heard it's not too different from python and i feel like learning another programming language would be good. we'll see!
+i started learning python close to two years ago and consider myself relatively capable in the language, and i *really* like it. i wrote a discord bot in it with the aid of [discord.py][dpy], which was fun— sadly however, i'm not as passionate about working on the project as i used to be.
 
-## other stuff  
+i know a little bit of javascript and [wrote a powercord plugin in it][yawn], and i plan to expand on that knowledge, both for my personal ~~satisfaction~~ journey and for digital technology at school.
 
-- pronouns: they/them
-- discord: mackenzie#0173 (primary platform)
-- location: new zealand
-- age: i'm 15 years old
+## basic stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact" width="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true" width="auto">
 
-##
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats" width="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact&card_width=445" width="auto" /> 
-</p>
+[views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
+[pronouns]: https://img.shields.io/badge/pronouns-they%2Fthem-ff1493
+[discord]: https://img.shields.io/badge/discord-mackenzie%230173-ff1493
+[kaleidoscope]: https://github.com/spinfish/kaleidoscope "the one i'm most proud of"
+[midnight candy]: https://github.com/spinfish/midnight-candy-powercord 'based on the ST3 theme i made of the same name'
+[midnightcord]: https://github.com/spinfish/midnightcord 'simple midnight theme for... you get the idea'
+[ily sass]: https://sass-lang.com 'thank god for you honestly'
+[dpy]: https://github.com/Rapptz/discord.py 'amazin lib that u should go check out'
+[yawn]: https://github.com/spinfish/bored-powercord-plugin "i suppose you could say the irony of that is i made it when i was extremely bored"
