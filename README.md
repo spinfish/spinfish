@@ -1,14 +1,23 @@
 # hi! i'm mackenzie. ![][views] ![][pronouns] ![][discord]
 
-recently i've been making a lot of themes for Discord (my communication app of choice) which you can view [here][kaleidoscope], [here][midnight candy] and [here][midnightcord]. CSS sure can get complicated quickly, but i'm entranced by its power nonetheless. also, [sass][ily sass] is a godsend.
+recently i've been making a lot of themes for Discord (my communication app of choice) which you can view [here][kaleidoscope], [here][midnight candy] and [here][midnightcord].<br>
+CSS sure can get complicated quickly, but i'm entranced by its power nonetheless. also, [sass][ily sass] is a godsend.
 
-i started learning python close to two years ago and consider myself relatively capable in the language, and i *really* like it. i wrote a discord bot in it with the aid of [discord.py][dpy], which was fun— sadly however, i'm not as passionate about working on the project as i used to be.
+i started learning python close to two years ago and consider myself relatively capable in the language now, and i *really* enjoy working with it. i wrote a discord bot with it with the aid of [discord.py][dpy], which was fun— sadly however, i'm not as passionate about working on the project as i used to be.
 
-i know a little bit of javascript and [wrote a powercord plugin in it][yawn], and i plan to expand on that knowledge, both for my personal ~~satisfaction~~ journey and for digital technology at school.
+i know a little bit of javascript and [wrote a powercord plugin with it][yawn], and plan to expand on that knowledge, both for my personal ~~satisfaction~~ programming journey and for digital technology at school.
 
-## basic stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact" width="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true" width="auto">
+hope you have a fantastic rest of your day!! :)
+
+## 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact">
+
+## 
+
+<!--
+  i'm sorry but you were too ugly
+  <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true" width="auto">
+-->
 
 [views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fthem-ff1493
