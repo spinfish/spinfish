@@ -1,4 +1,6 @@
-# hi! i'm mackenzie. ![][views] ![][pronouns] ![][discord]
+# hi! i'm mackenzie, aka spinfish.
+
+![][views] ![][pronouns] ![][discord]
 
 recently i've been making a lot of themes for Discord (my communication app of choice) which you can view [here][kaleidoscope], [here][midnight candy] and [here][midnightcord].<br>
 CSS sure can get complicated quickly, but i'm entranced by its power nonetheless. also, [sass][ily sass] is a godsend.
@@ -9,10 +11,7 @@ i know a little bit of javascript and [wrote a powercord plugin with it][yawn], 
 
 hope you have a fantastic rest of your day!! :)
 
-## 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact">
-
-## 
 
 <!--
   i'm sorry but you were too ugly
