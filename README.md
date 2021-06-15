@@ -1,29 +1,32 @@
-# hi! i'm mackenzie, aka spinfish.
+# Hi! I'm Mackenzie, aka spinfish.
 
 ![][views] ![][pronouns] ![][discord]
 
-recently i've been making a lot of themes for Discord (my communication app of choice) which you can view [here][kaleidoscope], [here][midnight candy] and [here][midnightcord].<br>
-CSS sure can get complicated quickly, but i'm entranced by its power nonetheless. also, [sass][ily sass] is a godsend.
+Recently I've been making a lot of themes for Discord (my communication app of choice), so I guess you could say CSS is my main focus right now, with [Sass][ily sass] being an amazing helper for preventing the code from resembling spaghetti and making the themes' structures modular and nicer to read (I could go on about my appreciation for the godsend that is Sass... but I'll spare you!). You can view them [here][kaleidoscope], [here][Midnight Candy], and [here][midnightcord]!
 
-i started learning python close to two years ago and consider myself relatively capable in the language now, and i *really* enjoy working with it. i wrote a discord bot with it with the aid of [discord.py][dpy], which was fun— sadly however, i'm not as passionate about working on the project as i used to be.
+I started learning Python close to two years ago and consider myself relatively capable in the language. I wrote a Discord bot in it with the aid of [discord.py][dpy], which was fun! I've sort of lost a lot of interest in the language overall now that I've discovered the fascinating realm of CSS, but it continues to be my programming language of choice and I don't think I've fallen out of love with it just yet :p
 
-i know a little bit of javascript and [wrote a powercord plugin with it][yawn], and plan to expand on that knowledge, both for my personal ~~satisfaction~~ programming journey and for digital technology at school.
+Recently I have also been (sorta semi kinda) embarking on expanding my JavaScript knowledge. While a lot of the aspects of the language are highly inconsistent and it is rather pale in comparison to Python in terms of customization and overall nice-to-use-ness, it's probably worth having a go at it as things like React are growing quickly ~~and webdev makes a fuckton of money~~. A while back I made a Powercord plugin with it which you can view [here][yawn] (be warned; it's not very useful and the code is rather bland!).
 
-hope you have a fantastic rest of your day!! :)
+Hope you have a fantastic rest of your day :)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact">
-
-<!--
-  i'm sorry but you were too ugly
-  <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true" width="auto">
+<!-- Unfortunately there was no way to make this look nicer under the other so bye bye...
 -->
+
+### Silly GitHub statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfish&theme=radical&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true">
+
+### Unnecessary fun facts about me B)
+- Favourite YouTubers: JrEg, Dylan Is In Trouble, Sam Collins, Aaron and Jo
+- Favourite musical artists: Green Day, Aphex Twin, Joy Division, Men I Trust, BoC, Sonic Youth
 
 [views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fthem-ff1493
 [discord]: https://img.shields.io/badge/discord-mackenzie%230173-ff1493
-[kaleidoscope]: https://github.com/spinfish/kaleidoscope "the one i'm most proud of"
-[midnight candy]: https://github.com/spinfish/midnight-candy-powercord 'based on the ST3 theme i made of the same name'
-[midnightcord]: https://github.com/spinfish/midnightcord 'simple midnight theme for... you get the idea'
-[ily sass]: https://sass-lang.com 'thank god for you honestly'
-[dpy]: https://github.com/Rapptz/discord.py 'amazin lib that u should go check out'
-[yawn]: https://github.com/spinfish/bored-powercord-plugin "i suppose you could say the irony of that is i made it when i was extremely bored"
+[kaleidoscope]: https://github.com/spinfish/kaleidoscope "The one I'm most proud of and use on a daily basis"
+[midnight candy]: https://github.com/spinfish/midnight-candy-powercord 'Based on the ST3 theme I made of the same name'
+[midnightcord]: https://github.com/spinfish/midnightcord 'A simple midnight theme'
+[ily sass]: https://sass-lang.com 'Thank God for you honestly ❤️'
+[dpy]: https://github.com/Rapptz/discord.py 'Very useful library for Discord bot making, highly recommend!!'
+[yawn]: https://github.com/spinfish/bored-powercord-plugin "I suppose you could say the irony of that is I made it when I was extremely bored"
