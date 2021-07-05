@@ -18,8 +18,8 @@ Hope you have a fantastic rest of your day :)
 <img src="https://github-readme-stats.vercel.app/api?username=spinfish&theme=radical&hide_border=true&show_icons=true">
 
 ### Unnecessary fun facts about me B)
-- Favourite YouTubers: JrEg, Dylan Is In Trouble, Sam Collins, Aaron and Jo
-- Favourite musical artists: Green Day, Aphex Twin, Joy Division, Men I Trust, BoC, Sonic Youth
+- Favourite YouTubers: JrEg, Dylan Is In Trouble, Sam Collins, Aaron and Jo, penguinz0
+- Favourite musical artists: Green Day, Aphex Twin, Joy Division, Men I Trust, deadmau5, BoC, Sonic Youth
 
 [views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fthem-ff1493
