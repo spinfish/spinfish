@@ -18,9 +18,9 @@ Hope you have a fantastic rest of your day :)
 - Favourite YouTubers: JrEg, Dylan Is In Trouble, Sam Collins, Aaron and Jo, penguinz0, Fairbairn Films
 - Favourite musical artists: Green Day, Aphex Twin, Joy Division, blink-182, The Beatles, Grimes, deadmau5
 
-[views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
-[pronouns]: https://img.shields.io/badge/pronouns-Ask%20for%20my%20pronouns%20:)-ff1493
-[discord]: https://img.shields.io/badge/discord-legume%230173-ff1493
+[views]: https://komarev.com/ghpvc/?username=spinfish&label=Profile+views&color=ff1493
+[pronouns]: https://img.shields.io/badge/Pronouns-Ask%20please%20-ff1493
+[discord]: https://img.shields.io/badge/Discord-legume%230173-ff1493
 [amethyst]: https://github.com/spinfish/amethyst "The one I'm most proud of and use on a daily basis"
 [kaleidoscope]: https://github.com/spinfish/kaleidoscope "Crazy bright colours, based on a VSCode theme"
 [midnight candy]: https://github.com/spinfish/midnight-candy-powercord "Based on the ST3 theme I made of the same name"
