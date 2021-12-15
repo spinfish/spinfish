@@ -1,4 +1,4 @@
-# Hi! I'm Mackenzie, aka spinfish.
+# Hi! I'm Alex, aka spinfish.
 
 ![][views] ![][pronouns] ![][discord]
 
@@ -19,8 +19,8 @@ Hope you have a fantastic rest of your day :)
 - Favourite musical artists: Green Day, Aphex Twin, Joy Division, blink-182, The Beatles, Grimes, deadmau5
 
 [views]: https://komarev.com/ghpvc/?username=spinfish&label=profile+views&color=ff1493
-[pronouns]: https://img.shields.io/badge/pronouns-he%2Fhim-ff1493
-[discord]: https://img.shields.io/badge/discord-mackenzie%230173-ff1493
+[pronouns]: https://img.shields.io/badge/pronouns-Ask%20for%20my%20pronouns%20:)-ff1493
+[discord]: https://img.shields.io/badge/discord-legume%230173-ff1493
 [amethyst]: https://github.com/spinfish/amethyst "The one I'm most proud of and use on a daily basis"
 [kaleidoscope]: https://github.com/spinfish/kaleidoscope "Crazy bright colours, based on a VSCode theme"
 [midnight candy]: https://github.com/spinfish/midnight-candy-powercord "Based on the ST3 theme I made of the same name"
